@@ -44,7 +44,7 @@ There is so far no order to the list regarding importance.
 ## Scanning  
 - [ ] Scan remaining consents  
   - [ ] NDev  
-  - [ ] MemC (**Petter**)  
+  - [x] MemC (**Petter**)  
   - [ ] Loci (**May**)  
   - [ ] NCP (Check om scannet: **AC**)  
 - [ ] Scan remamining protocols 
